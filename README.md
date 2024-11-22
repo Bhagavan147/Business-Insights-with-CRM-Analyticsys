@@ -1,8 +1,8 @@
-# CRM Analytics of an E-commerce Store
+# Business Insights with CRM Analytics
 
 This project focuses on leveraging customer transaction data to derive valuable insights for enhancing Customer Relationship Management (CRM) strategies. The process began with essential data preprocessing, including handling missing values, outliers, and duplicates. Through Exploratory Data Analysis (EDA), key patterns in customer behavior were identified, followed by the creation of customer-centric features such as Recency, Frequency, and Monetary (RFM) values. These metrics were used to segment customers based on their transaction patterns. Additional analyses, such as exploring average purchase intervals, preferred shopping days, and peak shopping hours, provided a deeper understanding of customer preferences. This analysis aims to optimize CRM strategies by uncovering actionable insights into customer behavior and purchasing trends.
 
-### E-commerce Store Transaction Dataset Description
+### Transaction Dataset Description
 
 | **Column**        | **Description**                                                                 |
 |-------------------|---------------------------------------------------------------------------------|
